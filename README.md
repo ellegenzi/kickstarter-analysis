@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-### Purpose
+### Background and Purpose
 
 Louise is an up and coming playwright and she wants to start a crowdfunding campaign to fund her play, Fever. She has asked for help in analyzing data from previous and ongoing Kickstarter campaigns in order to help her own campaign be successful. The purpose of this project was to look for specific factors that make a campaign successful and use those insights to help Louise plan her own campaign.
 
